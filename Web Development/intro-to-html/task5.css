@@ -1,0 +1,24 @@
+.textbox{
+    display: block;
+    padding: 10px 15px;
+    background-color: #d6d6d6;
+    margin-bottom: 10px;
+    border: none;
+    width: 300px;
+}
+
+.request{
+    margin-top: 10px;
+    color: white;
+    background-color: black;
+    padding: 10px 15px;
+    margin-right: 10px;
+    border: none;
+}
+
+.schedule{
+    margin-top: 10px;
+    background-color: #d6d6d6;
+    border: none;
+    padding: 10px 15px;
+}
