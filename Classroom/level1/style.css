@@ -1,0 +1,82 @@
+/* * {
+    color: blue;
+}
+
+#HeadingOne {
+    color: forestgreen;
+}
+#HeadingTwo {
+    color: brown;
+}
+#HeadingThree {
+    color: pink;
+} 
+button {
+    color: crimson;
+}
+
+#box4 {
+    background-color: aquamarine; 
+}
+#box,.box7,#box4{color: black;}
+
+#box {background-color: rgb(156, 97, 107);}
+.box7 {background-color: chocolate;} */
+
+
+
+/* p {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+    text-decoration: underline;
+} */
+
+
+/* #head1 {
+    font-weight: normal;
+}
+#head2 {
+    font-weight: 400
+}
+#head3 {
+    font-weight: 100;
+}
+#head4 {
+    font-weight: 900;
+} */
+
+/* #one {
+    font-family: Arial, Helvetica, sans-serif;
+}
+#two {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+} */
+
+/* 
+#one {
+    font-size: 25px;
+    line-height: 50px;
+    text-transform: capitalize;
+    
+}
+#three {
+    font-size: 12px;
+} */
+
+
+h1 {
+    text-align: center;
+}
+p {
+    text-transform: capitalize;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#outer {
+    font-size: 25px;
+}
+/* #inner {
+    font-size: 100px;
+} */

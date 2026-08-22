@@ -1,0 +1,108 @@
+/* body {
+    text-align: center;
+}
+
+div {
+    height:100px;
+    width: 200px;
+    display: inline-block;
+    border: 2px solid black;
+}
+#container {
+    height: 300px;
+    width: 600px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    align-content: flex-start;
+}
+
+#box1 {
+    background-color: aquamarine;
+    flex-shrink: 4;
+}
+
+#box2 {
+    height: 200px;
+    background-color: yellow;
+    align-self: flex-end;
+}
+
+#box3 {
+    background-color: yellowgreen;
+    height: 75px;
+}
+
+#box4 {
+    background-color: red;
+    flex-shrink: 0.3;
+}
+
+#box5 {
+    background-color: green;
+    align-self: flex-end;
+} */
+
+/* ul {
+    background-color: bisque;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    background-color: red;
+}
+ 
+li {
+    list-style-type: none;
+    display: inline;
+}
+
+#farhan {
+    height: 200px;
+    width: 200px;
+    display: flex;
+    background-color: blue;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#syed {
+    height: 80px;
+    width: 80px;
+    background-color: red;
+    text-align: center;
+} */
+
+
+div {
+    height: 100px;
+    width: 100px;
+}
+
+@media (max-width:300px){
+    div {
+        background-color: green;
+    }
+}
+@media (min-width:300px) and (max-width:400px){
+    div {
+        background-color: pink;
+    }
+}
+@media (min-width:400px) and (max-width:600px) {
+    div {
+        background-color: red;
+    }
+}
+@media (min-width:600px) {
+    div {
+        background-color: blue;
+    }
+}
